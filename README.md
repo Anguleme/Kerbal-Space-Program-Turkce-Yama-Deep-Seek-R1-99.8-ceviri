@@ -6,8 +6,10 @@ Kerbal Space Program AI Yapay Zeka Çeviri Denemesi (Depp SeeK R1🤖)
 
 Tamamen yapay zeka tarafından çevrilmiş olup,Kerbal Space Program 'ın en kapsamlı türkçe yamasıdır.
 
-
 Making History,Breaking Ground DLC'Sİ kapsamaktadır.
+
+
+
 
 
 Bozuk kısımları kendim çevirdim hatalar olabilir.
