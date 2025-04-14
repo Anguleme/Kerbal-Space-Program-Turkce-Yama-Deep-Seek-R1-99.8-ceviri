@@ -14,5 +14,8 @@ Bozuk kısımları kendim çevirdim hatalar olabilir bildirirseniz düzeltirim.
 
 
 Kerbal Space Program 1.12.5
+
 Making History 1.12.1
+
 Breaking Ground 1.7.1
+
