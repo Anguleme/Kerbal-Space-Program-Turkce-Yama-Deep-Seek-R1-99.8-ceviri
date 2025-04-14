@@ -37,4 +37,4 @@ KURULUM
 Keyifli oyunlar dilerim. 🚀
 
 
-
+Yamayı "Code" kısmında dowload zip e basarak indirebilirsiniz.
