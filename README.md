@@ -1,4 +1,4 @@
-# Kerbal-Space-Program-Turkce-Yama-Deep-Seek-R1-99.8ceviri 🤖 2025-04--14
+# Kerbal-Space-Program-Turkce-Yama-Deep-Seek-R1-99.8ceviri 🤖 2025-04-14
 
 
 Kerbal Space Program AI Yapay Zeka Çeviri Denemesi (Depp SeeK R1🤖)
