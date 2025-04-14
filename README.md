@@ -10,8 +10,9 @@ Tamamen yapay zeka tarafından çevrilmiş olup,Kerbal Space Program 'ın en kap
 Making History,Breaking Ground DLC'Sİ kapsamaktadır.
 
 
-Bozuk kısımları kendim çevirdim hatalar olabilir bildirirseniz düzeltirim.
+Bozuk kısımları kendim çevirdim hatalar olabilir.
 
+Hatalı kısımları  "issue" kısmından bildirirseniz sevinirim .🚀
 
 Çevrilemeyen kısımlar mevcuttur(özellikle görev kısımlarında 10 yerine (ten) saniye yazması gibi)
 
@@ -31,7 +32,7 @@ KURULUM
 
 
 
-Keyifli oyunlar dilerim.
+Keyifli oyunlar dilerim. 🚀
 
 
 
