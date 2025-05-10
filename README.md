@@ -39,4 +39,4 @@ Keyifli oyunlar dilerim. 🚀
 
 Yamayı "Code" kısmında dowload zip e basarak indirebilirsiniz.
 
-https://github.com/Anguleme/Kerbal-Space-Program-Turkce-Yama-Deep-Seek-R1-99.8-ceviri/blob/5ba11dfcc7127a064c10fc951b6b6a14f28f6e6b/220200_4.jpg
+![Ekran Görüntüsü](220200_4.jpg)
