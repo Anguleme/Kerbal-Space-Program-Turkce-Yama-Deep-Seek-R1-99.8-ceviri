@@ -40,3 +40,9 @@ Keyifli oyunlar dilerim. 🚀
 Yamayı "Code" kısmında dowload zip e basarak indirebilirsiniz.
 
 ![Ekran Görüntüsü](220200_4.jpg)
+
+![Ekran Görüntüsü](220200_5.jpg)
+
+![Ekran Görüntüsü](220200_6.jpg)
+
+![Ekran Görüntüsü](220200_7.jpg)
